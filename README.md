@@ -1,2 +1,1 @@
-# .github
-Organization profile config
+# Zyex Software
